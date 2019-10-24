@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="red_card_background_color">#d50000</color>
+    <color name="pink_card_background_color">#ff4081</color>
+    <color name="purple_card_background_color">#4a148c</color>
+    <color name="deep_purple_card_background_color">#311b92</color>
+    <color name="indigo_card_background_color">#1a237e</color>
+
+    <color name="blue_card_background_color">#0d47a1</color>
+    <color name="light_blue_card_background_color">#01579b</color>
+    <color name="cyan_card_background_color">#006064</color>
+    <color name="teal_card_background_color">#004d40</color>
+    <color name="green_card_background_color">#1b5e20</color>
+    <color name="light_green_card_background_color">#33691e</color>
+
+    <color name="lime_card_background_color">#827717</color>
+    <color name="yellow_card_background_color">#f57f17</color>
+    <color name="amber_card_background_color">#ff6f00</color>
+    <color name="orange_card_background_color">#dd2c00</color>
+    <color name="deep_orange_card_background_color">#bf360c</color>
+
+    <color name="brown_card_background_color">#3e2723</color>
+    <color name="grey_card_background_color">#212121</color>
+    <color name="blue_grey_card_background_color">#263238</color>
+
+</resources>
